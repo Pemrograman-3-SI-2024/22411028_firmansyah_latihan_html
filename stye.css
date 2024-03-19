@@ -1,0 +1,50 @@
+body {margin: 0%;}
+.judul1 {
+    color: aqua;
+}
+.my-button {
+    background-color: rgb(153, 88, 18);
+    background: none;
+    
+    padding: 1em ;
+    border-radius: 10px;
+    color: aqua;
+}
+
+.outline-button{
+    border: 1px solid rgb(57, 86, 97);
+    padding: 0.7em 1.3em;
+    border-radius: 20px;
+    background-color: white;
+    color: rgb(43, 70, 97);
+}
+
+.outline-button:hover{
+    background-color: rgb(43, 70, 97);
+    color: black;
+    /* font-size: 30px; */
+};
+
+.my-table {
+ border: none;
+}
+.my-table {
+    padding: 2em;
+}
+.my-table tr:nth-child(even) {
+    background-color: rgb(65, 153, 124);
+    background: none;
+}
+.my-card {
+    width: 30em ;
+    background-color: aquamarine;
+    background: none;
+}
+.my-card .card-content {
+    padding: auto;
+}
+.my-card .card-content .card-title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: blanchedalmond;
+}
